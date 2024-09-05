@@ -1,12 +1,6 @@
 - 👋 Hi, I’m @praveen-raipuria
 - 👀 I’m interested in FRONTEND DEVELOPER
 - 🌱 I’m currently learning REACT AND JAVA AUTOMATION SOFTWARE TESTING.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ All of my projects are available at https://github.com/praveen-raipuria
 - 📫 How to reach me praveenraipuria@gmail.com,
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-praveen-raipuria/praveen-raipuria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 😄 Know about my experiences https://linkedin.com/in/praveen-raipuria.
