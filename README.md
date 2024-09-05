@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @praveen-raipuria
 - 👀 I’m interested in FRONTEND DEVELOPER
-- 🌱 I’m currently learning REACT AND JAVA
+- 🌱 I’m currently learning REACT AND JAVA AUTOMATION SOFTWARE TESTING.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me praveenraipuria@gmail.com
+- 📫 How to reach me praveenraipuria@gmail.com,
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
